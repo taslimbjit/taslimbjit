@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
+<h3 align="left">Software Engineer(Trainee) @ BJIT Academy</h3>
+<p> I'm a passionate Data Scientist from Bangladesh with over 3 years of experience in building automated system using Django, Python, Machine Learning, Deep Learning, Natural Language Pocessing, ReactJS, NodeJS, HTML, CSS, SQL, etc. I have a strong foundation in machine learning techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslimbjit&label=Profile%20views&color=0e75b6&style=flat" alt="taslimbjit" /> </p>
 
