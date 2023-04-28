@@ -49,7 +49,7 @@
   <li>Decision Support System for Pest Control in Agriculture: The Decision Support System for Pest Control in Agriculture is a system designed to assist farmers and   
   agricultural workers in making informed decisions about pest control. The system utilizes data analysis and modeling techniques to provide recommendations for the 
   most effective pest control methods based on the specific conditions of a farm or field. This project is funded by the ICT Division, and it aims to improve the 
-  efficiency and sustainability of agriculture while reducing the negative impact of pest control on the environment. Technologies used: Deep Learning, Python, 
+  efficiency and sustainability of agriculture while reducing the negative impact of pest control on the environment. Technologies used: — Deep Learning, Python, 
   anaconda, Jupyter Notebook.</li>
 
   <li> Rice Diseases Recognition and Pesticide Recommendation using Convolution Neural Network: In this project, Convolutional Neural Network (CNN) can be used to  
