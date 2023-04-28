@@ -1,11 +1,39 @@
 <h1 align="left">Hi 👋, I'm Md. Taslim Hosen Shanto</h1>
 <h3 align="left">Software Engineer(Trainee) @ BJIT Academy</h3>
+
 <p> I'm a passionate Data Scientist from Bangladesh with over 3 years of experience in building automated system using Django, Python, Machine Learning, Deep Learning, Natural Language Pocessing, ReactJS, NodeJS, HTML, CSS, SQL, etc. I have a strong foundation in machine learning techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.</p>
+
+<h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
+
+<p>Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as an ICT instructor, BJIT Academy (a global standard training program for fresh talent) as an instructor, as well as various software development projects at BJIT Limited as senior project manager. I'm responsible to provide technology training and manage software development projects.</p>
+
+<h3 align = "left"> 🧠 What I'm currently learning </h3>
+
+<p>I'm currently learning Python, AWS, Graphic Design to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.</p>
+
+<h3 align = "left"> 💬 Ask me about </h3>
+
+<ul>
+  <li>Topics: SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy</li>
+  <li>Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma</li>
+</ul>
+
+<h3 align = "left"> ⚡ Fun fact </h3>
+
+<p> [Insert a fun fact about yourself that people might find interesting.] </p>
+
+<h3 align = "left"> 📝 Blogs and writing </h3>
+
+<p>I've very active, writing content regularly to at least one of these.</p>
+<ul>
+  <li> [Blog Link]</li>
+  <li>[Blog Link] </li>
+</ul>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslimbjit&label=Profile%20views&color=0e75b6&style=flat" alt="taslimbjit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslimbjit" alt="taslimbjit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/taslim_shanto" target="blank"><img src="https://img.shields.io/twitter/follow/taslim_shanto?logo=twitter&style=for-the-badge" alt="taslim_shanto" /></a> </p>
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/taslimbjit/ExpenseTracker)
