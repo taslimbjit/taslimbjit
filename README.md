@@ -85,10 +85,15 @@ Brief description of your role and responsibilities. Achievements or notable pro
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatbjit&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbjit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimbjit&show_icons=true&locale=en&layout=compact" alt="taslimbjit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taslimbjit&show_icons=true&locale=en" alt="taslimbjit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimbjit&" alt="taslimbjit" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
+
+<h3 align="left">🏷️ Video Resources</h3>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
+
+<h3 align="left">💻 Github Repositories</h3>
