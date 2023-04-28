@@ -49,37 +49,33 @@
 </ul>
 
 <h3 align="left">🛠️ Screenshots of Project</h3>
+<img alt="Coder GIF" src="[https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif](https://drive.google.com/file/d/1m8bNxDscHxGLpwl9zjGGGhx3uD4SVkCW/view?usp=share_link)" style="max-width: 100%;" data-target="animated-image.originalImage">
 
 <h3 align="left">💻 Work Experience</h3>
 <ul>
-  <li> Company Name, [Job Title], [Employment Dates] <br>
-Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].</li>
-<li>Company Name, [Job Title], [Employment Dates] <br>
-Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].</li>
+  <li> Machine Learning and Deep Learning LAB, Dept. of CSE, JUST, Research Assistant, Mar. 2021 - Jan. 2023. <br>
+My responsibilities included conducting literature reviews, preparing and analyzing data, developing and implementing machine learning models, writing technical reports and presenting research findings, collaborating with team members, and staying up-to-date with the latest developments in the field. My one of greatest project is Decision Support System for Pest Control in Agriculture which funded by ICT Division. Technologies used: Deep Learning, Python, anaconda, Jupyter Notebook.</li>
 </ul>
 
 <h3 align="left">🎓 Education</h3>
 <ul>
-  <li> University Name, [Degree], [Graduation Date] </li>
-  <li> University Name, [Degree], [Graduation Date] </li>
+  <li> Jashore University of Science and Technology, B.Sc. in CSE, 2023 </li>
 </ul>
 
 <h3 align="left">📚 Training</h3>
 <ul>
-  <li> [List of training courses you've completed] </li>
-  <li> [List of certifications you've earned] </li>
+  <li> Machine Learning </li>
+  <li> Deep Learning Specialization </li>
+  <li> TensorFlow in Practice Specialization </li>
+  <li> Computer Vision – Object Tracking with OpenCV and Python. </li>
+  <li> Natural Language Processing Specialization. </li>
+  <li> Introduction to Data Science in Python. </li>
 </ul>
 
 <h3 align="left">🏆 Achievements</h3>
 <ul>
-  <li> [List of professional achievements, such as awards, recognitions, or honors] </li>
-  <li> [List of projects you've completed that you're particularly proud of] </li>
-</ul>
-
-
-<ul>
-  <li> [Name of the coding contest], [Rank], [Year] </li>
-  <li> [Name of the coding contest], [Rank], [Year] </li>
+  <li> Mathematics Olympiad (9th Position) [2022] </li>
+  <li> Essay competition award from the Minister of Education (Second Position) [2015] </li>
 </ul>
 
 <h3 align="left">📈 GitHub Stats</h3>
