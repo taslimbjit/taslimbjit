@@ -83,7 +83,9 @@ Brief description of your role and responsibilities. Achievements or notable pro
 </ul>
 
 <h3 align="left">📈 GitHub Stats</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatbjit&label=Profile%20views&color=0e75b6&style=flat" alt="rahatbjit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimbjit&show_icons=true&locale=en&layout=compact" alt="taslimbjit" /></p>
 
