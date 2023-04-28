@@ -70,7 +70,19 @@ Brief description of your role and responsibilities. Achievements or notable pro
   <li> [List of certifications you've earned] </li>
 </ul>
 
+<h3 align="left">🏆 Achievements</h3>
+<ul>
+  <li> [List of professional achievements, such as awards, recognitions, or honors] </li>
+  <li> [List of projects you've completed that you're particularly proud of] </li>
+</ul>
 
+
+<ul>
+  <li> [Name of the coding contest], [Rank], [Year] </li>
+  <li> [Name of the coding contest], [Rank], [Year] </li>
+</ul>
+
+<h3 align="left">📈 GitHub Stats</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimbjit&show_icons=true&locale=en&layout=compact" alt="taslimbjit" /></p>
