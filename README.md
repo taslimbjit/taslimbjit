@@ -5,17 +5,17 @@
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as an ICT instructor, BJIT Academy (a global standard training program for fresh talent) as an instructor, as well as various software development projects at BJIT Limited as senior project manager. I'm responsible to provide technology training and manage software development projects.</p>
+<p>Currently, I am working on BJET Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
-<p>I'm currently learning Python, AWS, Graphic Design to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.</p>
+<p>I'm currently learning Python, Java, AWS, Data Science, to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Data Scientist.</p>
 
 <h3 align = "left"> 💬 Ask me about </h3>
 
 <ul>
-  <li>Topics: SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy</li>
-  <li>Technologies: PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma</li>
+  <li>Topics: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Git/GitHub</li>
+  <li>Technologies: Tensorflow, Opencv, Pytorch, Numpy, Pandas, Scikit-Learn</li>
 </ul>
 
 <h3 align = "left"> ⚡ Fun fact </h3>
@@ -27,7 +27,7 @@
 <p>I've very active, writing content regularly to at least one of these.</p>
 <ul>
   <li> [Blog Link]</li>
-  <li>[Blog Link] </li>
+  <li> [Blog Link] </li>
 </ul>
 
 
