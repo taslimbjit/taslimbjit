@@ -52,6 +52,14 @@
 
 <img src="https://drive.google.com/file/d/1m8bNxDscHxGLpwl9zjGGGhx3uD4SVkCW/view?usp=sharing" alt="Girl in a jacket" width="500" height="600">
 
+<h3 align="left">🌟 Publication</h3>
+<ul>
+  <li> Handling Class Imbalance in Credit Card Fraud Using Various Sampling Techniques </li>
+  <li> DECISION SUPPORT SYSTEM FOR AGRICULTURE: CROP DISEASE RECOGNITION AND CLASSIFICATION THROUGH AN OPTIMIZE CONVOLUTION NEURAL NETWORK (CNN) </li>
+  <li> KRISHOKBOT: AN INTELLECTUAL AGENT FOR FARMERS </li>
+  
+</ul>
+
 <h3 align="left">💻 Work Experience</h3>
 <ul>
   <li> Machine Learning and Deep Learning LAB, Dept. of CSE, JUST, Research Assistant, Mar. 2021 - Jan. 2023. <br>
