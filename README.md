@@ -18,17 +18,6 @@
   <li>Technologies: Tensorflow, Opencv, Pytorch, Numpy, Pandas, Scikit-Learn</li>
 </ul>
 
-<h3 align = "left"> ⚡ Fun fact </h3>
-
-<p> [Insert a fun fact about yourself that people might find interesting.] </p>
-
-<h3 align = "left"> 📝 Blogs and writing </h3>
-
-<p>I've very active, writing content regularly to at least one of these.</p>
-<ul>
-  <li> [Blog Link]</li>
-  <li> [Blog Link] </li>
-</ul>
 
 
 <h3 align="left">📫 How to reach me</h3>
@@ -101,7 +90,6 @@ My responsibilities included conducting literature reviews, preparing and analyz
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taslimbjit&" alt="taslimbjit" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
 
-<h3 align="left">🏷️ Video Resources</h3>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hexfXc7-SsU" target="_blank"><img src="http://img.youtube.com/vi/hexfXc7-SsU/0.jpg" alt="10 Udemy Courses Every Developer SHOULD Own" width="200" height="140" border="10" /></a>   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-OAa9k0zCDg" target="_blank"><img src="http://img.youtube.com/vi/-OAa9k0zCDg/0.jpg" alt="Tops 5 skills to get" width="200" height="140" border="10" /></a>
+
 
 <h3 align="left">💻 Github Repositories</h3>
